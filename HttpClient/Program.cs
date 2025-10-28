@@ -1,8 +1,6 @@
 ﻿// Program.cs
 //
-// © 2021 FESB in cooperation with Zoraja Consulting. All rights reserved.
-
-using System.Threading.Tasks;
+// © 2025 FESB in cooperation with Zoraja Consulting. All rights reserved.
 
 namespace CommunicationProtocols.HttpClient;
 

@@ -1,6 +1,4 @@
-﻿using System.Threading.Tasks;
-
-namespace CommunicationProtocols.HttpServer;
+﻿namespace CommunicationProtocols.HttpServer;
 
 public static class Program
 {

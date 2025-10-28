@@ -1,10 +1,8 @@
 ﻿// Server.cs
 //
-// © 2021 FESB in cooperation with Zoraja Consulting. All rights reserved.
+// © 2025 FESB in cooperation with Zoraja Consulting. All rights reserved.
 
-using System;
 using System.Net;
-using System.Threading.Tasks;
 
 namespace CommunicationProtocols.HttpServer;
 

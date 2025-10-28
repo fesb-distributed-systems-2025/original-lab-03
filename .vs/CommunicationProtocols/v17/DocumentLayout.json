@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\fesb-pi-dis-2025\\original-lab-03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12C0FE9A-541C-475A-9AD2-99A2EDA0A679}|CommunicationProtocols.Server\\CommunicationProtocols.Server.csproj|c:\\code\\fesb-pi-dis-2025\\original-lab-03\\communicationprotocols.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C0FE9A-541C-475A-9AD2-99A2EDA0A679}|CommunicationProtocols.Server\\CommunicationProtocols.Server.csproj|solutionrelative:communicationprotocols.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C0FE9A-541C-475A-9AD2-99A2EDA0A679}|CommunicationProtocols.Server\\CommunicationProtocols.Server.csproj|c:\\code\\fesb-pi-dis-2025\\original-lab-03\\communicationprotocols.server\\socketserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C0FE9A-541C-475A-9AD2-99A2EDA0A679}|CommunicationProtocols.Server\\CommunicationProtocols.Server.csproj|solutionrelative:communicationprotocols.server\\socketserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C95BC6C-F54B-43CA-8657-7474C1EA8B81}|HttpServer\\CommunicationProtocols.HttpServer.csproj|c:\\code\\fesb-pi-dis-2025\\original-lab-03\\httpserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C95BC6C-F54B-43CA-8657-7474C1EA8B81}|HttpServer\\CommunicationProtocols.HttpServer.csproj|solutionrelative:httpserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBFEC5E-52F0-4C5C-A0AC-EDA76F574619}|HttpClient\\CommunicationProtocols.HttpClient.csproj|c:\\code\\fesb-pi-dis-2025\\original-lab-03\\httpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBFEC5E-52F0-4C5C-A0AC-EDA76F574619}|HttpClient\\CommunicationProtocols.HttpClient.csproj|solutionrelative:httpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBFEC5E-52F0-4C5C-A0AC-EDA76F574619}|HttpClient\\CommunicationProtocols.HttpClient.csproj|c:\\code\\fesb-pi-dis-2025\\original-lab-03\\httpclient\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBFEC5E-52F0-4C5C-A0AC-EDA76F574619}|HttpClient\\CommunicationProtocols.HttpClient.csproj|solutionrelative:httpclient\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C95BC6C-F54B-43CA-8657-7474C1EA8B81}|HttpServer\\CommunicationProtocols.HttpServer.csproj|c:\\code\\fesb-pi-dis-2025\\original-lab-03\\httpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C95BC6C-F54B-43CA-8657-7474C1EA8B81}|HttpServer\\CommunicationProtocols.HttpServer.csproj|solutionrelative:httpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 416,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\fesb-pi-dis-2025\\original-lab-03\\HttpServer\\Program.cs",
+              "RelativeDocumentMoniker": "HttpServer\\Program.cs",
+              "ToolTip": "C:\\Code\\fesb-pi-dis-2025\\original-lab-03\\HttpServer\\Program.cs",
+              "RelativeToolTip": "HttpServer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T15:54:48.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\fesb-pi-dis-2025\\original-lab-03\\HttpClient\\Program.cs",
+              "RelativeDocumentMoniker": "HttpClient\\Program.cs",
+              "ToolTip": "C:\\Code\\fesb-pi-dis-2025\\original-lab-03\\HttpClient\\Program.cs",
+              "RelativeToolTip": "HttpClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T15:53:00.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Code\\fesb-pi-dis-2025\\original-lab-03\\HttpClient\\Client.cs",
+              "RelativeDocumentMoniker": "HttpClient\\Client.cs",
+              "ToolTip": "C:\\Code\\fesb-pi-dis-2025\\original-lab-03\\HttpClient\\Client.cs",
+              "RelativeToolTip": "HttpClient\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T15:52:59.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Code\\fesb-pi-dis-2025\\original-lab-03\\HttpServer\\Server.cs",
+              "RelativeDocumentMoniker": "HttpServer\\Server.cs",
+              "ToolTip": "C:\\Code\\fesb-pi-dis-2025\\original-lab-03\\HttpServer\\Server.cs",
+              "RelativeToolTip": "HttpServer\\Server.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T14:41:30.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SocketServer.cs",
+              "DocumentMoniker": "C:\\Code\\fesb-pi-dis-2025\\original-lab-03\\CommunicationProtocols.Server\\SocketServer.cs",
+              "RelativeDocumentMoniker": "CommunicationProtocols.Server\\SocketServer.cs",
+              "ToolTip": "C:\\Code\\fesb-pi-dis-2025\\original-lab-03\\CommunicationProtocols.Server\\SocketServer.cs",
+              "RelativeToolTip": "CommunicationProtocols.Server\\SocketServer.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowBMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T13:41:24.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\fesb-pi-dis-2025\\original-lab-03\\CommunicationProtocols.Server\\Program.cs",
+              "RelativeDocumentMoniker": "CommunicationProtocols.Server\\Program.cs",
+              "ToolTip": "C:\\Code\\fesb-pi-dis-2025\\original-lab-03\\CommunicationProtocols.Server\\Program.cs*",
+              "RelativeToolTip": "CommunicationProtocols.Server\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T13:41:18.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 106,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 106,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
